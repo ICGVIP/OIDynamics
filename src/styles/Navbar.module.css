@@ -1,0 +1,71 @@
+.img_fit{
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.line{
+    width:35%;
+    height:0;
+    border: 0.5px solid rgba(0,0,0,0.5);
+}
+.submit{
+    background-color: rgb(240,145,56);
+    color:white;
+}
+
+
+.logo{
+    height: 6rem;
+    width: 8rem;
+    background-image: url('https://oichat.s3.us-east-2.amazonaws.com/assets/oi_dynamics.png');
+}
+
+.hover_border:hover{
+    border-bottom: 2px solid red;
+}
+.btn_white{
+    background-color: white ;
+    color:#dc3545;
+}  
+.btn_white:hover{
+    background-color: #dc3545;
+    color:white;
+}
+
+.language{
+    width:auto;
+}
+.navHover{
+    color:white
+}
+.navHover:hover{
+    color:rgb(244,146,49)
+}
+
+
+.footer {
+    border-radius:10px; 
+    background-color:rgb(34,42,65);
+    height:2rem;
+    width:2rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+@media screen and (max-width:992px){
+    .btn_white{
+        width:100%
+    }
+}
+@media screen and (max-width:992px) and (orientation:portrait) {
+    .language{
+        width:50%;
+    }
+}
+@media screen and (max-width:992px) and (orientation:landscape) {
+    .language{
+        width:40%;
+    }
+}
+

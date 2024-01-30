@@ -1,0 +1,71 @@
+.rect_bg{
+    background-image:url('https://oichat.s3.us-east-2.amazonaws.com/assets/support_banner.png');
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    height: 6rem;
+    width: 8rem;
+    background-image: url('https://oichat.s3.us-east-2.amazonaws.com/assets/oi_dynamics.png');
+    align-self: flex-start;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg{
+    background-image:url('https://oichat.s3.us-east-2.amazonaws.com/assets/rect.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.inline_image{
+    height:3em;
+    width:auto;
+    vertical-align: middle;
+}
+
+.ai{
+    background-image:url('https://oichat.s3.us-east-2.amazonaws.com/assets/ai.png');
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    width:30%;
+    height:0;
+    padding-bottom:30%
+}
+
+.label{
+    color: rgb(166,161,161);
+}
+
+.input{
+    color: rgb(182,177,177);
+    background-color: rgb(52,51,51);
+    border-color: rgb(130,130,130);
+}
+
+.submit{
+    background-color: rgb(244,146,49);
+    color:white;
+    font-size:1.2em
+}
+
+.screen {
+    background-image:url('https://oichat.s3.us-east-2.amazonaws.com/assets/call.png');
+    background-size:contain;
+    background-position:center;
+    background-repeat: no-repeat;
+    width:50%;
+    height:0;
+    padding-bottom:50%
+}
+
+.extra_ctr{
+    background-image:url('https://oichat.s3.us-east-2.amazonaws.com/assets/bg_wave.png');
+    background-size:cover;
+    background-position:bottom;
+    background-repeat: no-repeat;
+}
