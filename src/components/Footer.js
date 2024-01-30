@@ -18,19 +18,19 @@ function Footer() {
             </div>
             
             <div className='col-12 px-3 col-md-6 col-xxl-4 align-self-center d-flex justify-content-between my-2'  style={{color:'white', fontWeight:'bold', fontSize:'1em'}}>
-              <a className={`d-flex justify-content-center align-items-center ${classes.footer}`} href='' target='_blank'>
+              <a className={`d-flex justify-content-center align-items-center ${classes.footer}`} href='https://www.instagram.com/oi_dynamics/' target='_blank'>
                 <i className="fa-brands fa-instagram text-white"></i>
               </a>
-              <a className={`d-flex justify-content-center align-items-center ${classes.footer}`}>
+              <a className={`d-flex justify-content-center align-items-center ${classes.footer}`} href='https://www.facebook.com/profile.php?id=61556284371313' target='_blank'>
                 <i className="fa-brands fa-facebook-f text-white"></i>
               </a>
-              <a className={`d-flex justify-content-center align-items-center ${classes.footer}`}>
+              <a className={`d-flex justify-content-center align-items-center ${classes.footer}`} href='https://www.linkedin.com/company/oi-dynamics' target='_blank'>
                 <i className="fa-brands fa-linkedin-in  text-white"></i>
               </a>
-              <a className={`d-flex justify-content-center align-items-center ${classes.footer}`}>
+              <a className={`d-flex justify-content-center align-items-center ${classes.footer}`} href='https://twitter.com/OiDynamics_' target='_blank'>
                 <i class="fa-brands fa-x-twitter text-white"></i>
               </a>
-              <a className={`d-flex justify-content-center align-items-center ${classes.footer}`}>
+              <a className={`d-flex justify-content-center align-items-center ${classes.footer}`} href='https://www.youtube.com/@OIDynamics' target='_blank'>
                 <i className="fa-brands fa-youtube text-white"></i>
               </a>
             </div>

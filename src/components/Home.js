@@ -167,7 +167,28 @@ function Home() {
           </div>
         </div>
 
+        <div className={`container-fluid my-5 py-5 ${classes.extra_ctr}`} style={{backgroundImage:'url(https://oichat.s3.us-east-2.amazonaws.com/assets/startup.png)'}}>
+          <div className='row py-5 my-5'>
+            <div className='col-12 col-md-5 px-5'>
+              <h1 className='mt-5 pt-2'>
+                Get in touch and <span style={{color:'rgb(44,119,246)'}}>start</span>
+              </h1>
+              <h1 className='mb-3'>
+                <span style={{color:'rgb(44,119,246)'}}>growing</span> your startup today.
+              </h1>
+              
+              <div className='my-5 d-flex'>
+                <button type='button' className='btn btn-dark me-3'>Get in Touch</button>
+                <button type='button' className='btn btn-outline-dark ms-3'>Get Started</button>
+              </div>
+            </div>
+          </div>
+          <div className='d-none col-7 d-lg-flex'>
+            <div>
 
+            </div>
+          </div>
+        </div>
       
     </>
     

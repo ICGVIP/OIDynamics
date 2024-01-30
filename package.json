@@ -1,7 +1,6 @@
 {
   "name": "oichat-web",
   "version": "0.1.0",
-  "homepage": "https://icgvip.github.io/OIChat-Web",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
